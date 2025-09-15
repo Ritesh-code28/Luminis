@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Echo Finale
 
 A mindful social platform combining real-time chat, blogging, and community features. Built with React, Express.js, and WebSockets for a seamless full-stack experience.
@@ -191,3 +192,6 @@ For support, email your-email@example.com or create an issue in this repository.
 ---
 
 Built with ❤️ by the Echo Team
+=======
+Echo: Your Safe Space 
+>>>>>>> 378e7f7a650d1c22a0ed00a320a7f90d7f179d8d
